@@ -50,16 +50,13 @@
 </div>
 
 
-
-
 # ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
-
----
+----
 [![](https://visitcount.itsvg.in/api?id=prajyot-porje&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
