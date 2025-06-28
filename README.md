@@ -1,62 +1,129 @@
-# 💫 About Me:
-<br>Hi! I'm a Software Engineering student specializing in Artificial Intelligence and Machine Learning at PES Modern College of Engineering, Pune.<br><br>💻 Web Developer : I have hands-on experience with technologies like Next.js, React.js, Tailwind CSS, and Some UI/UX Toolkits.<br>🧠 DSA Enthusiast : Skilled in C++ with a strong foundation in Data Structures and Algorithms.<br>🚀 Projects : Currently building innovative solutions like a video conferencing app ( NexMeet ) and a Responsive Portfolio Website.<br>🎯 Hobbies: I enjoy  Coding, Playing Cricket, Playing Chess, hitting the GYM, and Reading Books.<br><br>📫 Let's connect and build something amazing together!
-<br><br>
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/prajyot-porje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajyot-porje" height="30" width="40" /></a>
-<a href="https://instagram.com/___prajyot_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___prajyot_17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prajyot-porje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajyot-porje" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prajyotporje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajyotporje" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+    Hey there! I'm <strong>Prajyot Porje</strong>
+  </h1>
 
-<br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver;Always+Learning!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver;Always+Learning!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  </picture>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
-
-<br>
-
-# 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyot-porje&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyot-porje&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</div>
-  
-<div align="left" >
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot-porje&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="vertical-align: top;" />
-</div>
-<div align="left" >
-  <img src="https://github-contributor-stats.vercel.app/api?username=prajyot-porje&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="vertical-align: top;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </div>
 
-
-# ✍️ Random Dev Quote
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left">
+  🎓 I’m an <strong>AI/ML Student</strong> at <em>PES Modern College of Engineering</em><br/>
+  <br/>
+  💻 Full-Stack Developer with expertise in <em>Next.js, React, TypeScript</em><br/>
+  <br/>
+  🚀 Currently learning <strong>Machine Learning</strong> <br/>
+  <br/>
+  🧠 DSA Enthusiast solving problems with <em>C++</em><br/>
+  <br/>
+  ✨ I enjoy learning, building real-world apps, and growing as a developer.
+</p>
+
+<br clear="right"/>
+
 </div>
 
-----
-[![](https://visitcount.itsvg.in/api?id=prajyot-porje&icon=0&color=12)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 LeetCode Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/prajyot-porje?theme=dark&font=Poppins&ext=heatmap" />
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/prajyot-porje?theme=light&font=Poppins&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/prajyot-porje?theme=light&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect!
+
+<a href="https://linkedin.com/in/prajyot-porje">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&borderRadius=9999" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/___prajyot_17">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&borderRadius=9999" alt="Instagram" />
+</a>
+<a href="https://www.leetcode.com/prajyot-porje">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&borderRadius=9999" alt="LeetCode" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/prajyotporje">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=298D46&borderRadius=9999" alt="GeeksforGeeks" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,framermotion&theme=dark" />
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,c,html,css&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Highlights
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prajyot-porje&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prajyot-porje&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajyot-porje&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=prajyot-porje&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=prajyot-porje&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajyot-porje&theme=default&hide_border=true" />
+</picture>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot-porje&theme=github-compact&bg_color=transparent&color=58a6ff&line=58a6ff&point=bf91f3&area=true&hide_border=true&height=300" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<h2>🚀 Thanks for visiting!</h2>
+
+<img src="https://komarev.com/ghpvc/?username=prajyot-porje&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<strong>Let's build something amazing together!</strong> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
+
+</div>
