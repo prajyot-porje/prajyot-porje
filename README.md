@@ -13,7 +13,8 @@
   <br>
   <a href="https://www.linkedin.com/in/prajyot-porje"><img src="./btn-linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://prajyot-porje.vercel.app"><img src="./btn-portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://instagram.com/"><img src="./btn-instagram.svg" alt="Instagram" /></a>
+  <a href="https://leetcode.com/u/prajyot-porje/"><img src="./btn-leetcode.svg" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/__prajyot_17"><img src="./btn-instagram.svg" alt="Instagram" /></a>
   <a href="mailto:porjeprajyot@gmail.com"><img src="./btn-gmail.svg" alt="Gmail" /></a>
   <a href="./Full_Stack_Developer_Resume.pdf"><img src="./btn-resume.svg" alt="Resume" /></a>
   
@@ -27,7 +28,7 @@
   <img src="./heading-projects.svg" alt="Projects" width="100%" />
   <br>
   <a href="https://github.com/prajyot-porje/DevFlow"><img src="./card-devflow.svg" width="49%" alt="DevFlow" /></a>
-  <a href="https://github.com/prajyot-porje/ContextGraph"><img src="./card-contextgraph.svg" width="49%" alt="ContextGraph" /></a>
+  <a href="https://github.com/prajyot-porje/Context-Graph"><img src="./card-contextgraph.svg" width="49%" alt="ContextGraph" /></a>
 
   <br>
 
