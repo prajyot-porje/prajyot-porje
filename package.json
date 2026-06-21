@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "sharp": "^0.35.2",
+    "simple-icons": "^16.23.0"
+  },
+  "scripts": {
+    "build": "node generate-header.js && node generate-about.js && node generate-badges.js && node generate-cards.js && node generate-achievements.js && node generate-heatmap.js && node generate-headings.js"
+  }
+}
