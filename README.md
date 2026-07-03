@@ -12,14 +12,14 @@
   
   <br>
   <a href="https://www.linkedin.com/in/prajyot-porje"><img src="./btn-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://prajyot-porje.vercel.app"><img src="./btn-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://prajyotporje.in"><img src="./btn-portfolio.svg" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/prajyot-porje/"><img src="./btn-leetcode.svg" alt="LeetCode" /></a>
   <a href="https://www.instagram.com/__prajyot_17"><img src="./btn-instagram.svg" alt="Instagram" /></a>
   <a href="mailto:porjeprajyot@gmail.com"><img src="./btn-gmail.svg" alt="Gmail" /></a>
   <a href="./Full_Stack_Developer_Resume.pdf"><img src="./btn-resume.svg" alt="Resume" /></a>
   
   <br>
-  <a href="https://prajyot-porje.vercel.app">
+  <a href="https://prajyotporje.in">
     <img src="./about.svg" width="100%" alt="About Me" />
   </a>
 
