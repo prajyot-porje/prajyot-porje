@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Prajyot Porje — AI Engineer & Full-Stack Developer" width="100%"/>
+  <img src="./header.svg" alt="Prajyot Porje — Full-Stack Engineer" width="100%"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/u/prajyot-porje/"><img src="./btn-leetcode.svg" alt="LeetCode" /></a>
   <a href="https://www.instagram.com/__prajyot_17"><img src="./btn-instagram.svg" alt="Instagram" /></a>
   <a href="mailto:porjeprajyot@gmail.com"><img src="./btn-gmail.svg" alt="Gmail" /></a>
-  <a href="./Full_Stack_Developer_Resume.pdf"><img src="./btn-resume.svg" alt="Resume" /></a>
+  <a href="./Prajyot_Porje_Resume.pdf"><img src="./btn-resume.svg" alt="Resume" /></a>
   
   <br>
   <a href="https://prajyotporje.in">

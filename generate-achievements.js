@@ -16,15 +16,15 @@ const achievements = [
   {
     icon: (si.siLeetcode && si.siLeetcode.path) || 'M16.102 17.93l-2.697 2.607c-.466.467-1.111.662-1.823.662s-1.357-.195-1.824-.662l-4.332-4.363c-.467-.467-.702-1.15-.702-1.863s.235-1.396.702-1.863l4.332-4.363c.467-.467 1.112-.662 1.824-.662s1.357.195 1.823.662l2.697 2.607c.467.467.662 1.112.662 1.824s-.195 1.357-.662 1.823z',
     color: '#FFA116',
-    title: '417 LeetCode Solved',
-    sub: '32 Hard • 150+ GFG',
+    title: '446 LeetCode Solved',
+    sub: '180 Medium • 34 Hard',
     delay: '0.4s'
   },
   {
     icon: 'M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2v1c0 2.55 1.92 4.63 4.39 4.94A5.01 5.01 0 0 0 11 15.9V19H7v2h10v-2h-4v-3.1a5.01 5.01 0 0 0 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z', 
     color: '#F1C40F',
-    title: 'Hackathon Finalist',
-    sub: 'ADCET 2024 Innovation',
+    title: 'Hackathon Shortlist',
+    sub: 'ADCET • DYPDPU • Avishkar',
     delay: '0.6s'
   }
 ];

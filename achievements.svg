@@ -36,8 +36,8 @@
       </svg>
       
       <!-- Text -->
-      <text x="56" y="15" fill="#ffffff" font-family="'Grift', sans-serif" font-size="15" font-weight="500">417 LeetCode Solved</text>
-      <text x="56" y="33" fill="#8b949e" font-family="'Grift', sans-serif" font-size="13" font-weight="400">32 Hard • 150+ GFG</text>
+      <text x="56" y="15" fill="#ffffff" font-family="'Grift', sans-serif" font-size="15" font-weight="500">446 LeetCode Solved</text>
+      <text x="56" y="33" fill="#8b949e" font-family="'Grift', sans-serif" font-size="13" font-weight="400">180 Medium • 34 Hard</text>
     </g>
   
     <g opacity="0">
@@ -50,8 +50,8 @@
       </svg>
       
       <!-- Text -->
-      <text x="56" y="15" fill="#ffffff" font-family="'Grift', sans-serif" font-size="15" font-weight="500">Hackathon Finalist</text>
-      <text x="56" y="33" fill="#8b949e" font-family="'Grift', sans-serif" font-size="13" font-weight="400">ADCET 2024 Innovation</text>
+      <text x="56" y="15" fill="#ffffff" font-family="'Grift', sans-serif" font-size="15" font-weight="500">Hackathon Shortlist</text>
+      <text x="56" y="33" fill="#8b949e" font-family="'Grift', sans-serif" font-size="13" font-weight="400">ADCET • DYPDPU • Avishkar</text>
     </g>
   
 </svg>

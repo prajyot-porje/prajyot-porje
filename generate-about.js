@@ -18,8 +18,8 @@ const svg = `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http
 
   <!-- Paragraph -->
   <text x="${cx}" y="165" fill="#8b949e" font-family="${FN}" font-size="16" font-weight="400" text-anchor="middle">Hi, I'm Prajyot. I build software that works, not demos that impress. I've</text>
-  <text x="${cx}" y="195" fill="#8b949e" font-family="${FN}" font-size="16" font-weight="400" text-anchor="middle">engineered AI tools like DevFlow and ContextGraph, solved 417 LeetCode problems,</text>
-  <text x="${cx}" y="225" fill="#8b949e" font-family="${FN}" font-size="16" font-weight="400" text-anchor="middle">merged a PR in JupyterLab, and freelance for international clients.</text>
+  <text x="${cx}" y="195" fill="#8b949e" font-family="${FN}" font-size="16" font-weight="400" text-anchor="middle">engineered AI tools like DevFlow and ContextGraph, solved 446 LeetCode problems,</text>
+  <text x="${cx}" y="225" fill="#8b949e" font-family="${FN}" font-size="16" font-weight="400" text-anchor="middle">merged a PR in JupyterLab, and build production systems at Mantra4Change.</text>
 
   <!-- Button -->
   <g transform="translate(${cx - 85}, 280)">
